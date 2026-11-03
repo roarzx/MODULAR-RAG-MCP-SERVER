@@ -105,7 +105,7 @@
 
 ```bash
 git clone <repo-url>
-cd Modular-RAG-MCP-Server
+cd MODULAR-RAG-MCP-SERVER
 ```
 
 ### 2. 一键配置（Setup Skill）
